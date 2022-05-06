@@ -1,0 +1,32 @@
+name: Herring Cove
+author: Herring Cove
+name: Yangheng(Janice) Jizhe
+author: Yangheng Jizhe
+baseurl: /herring-cove
+description: theme for jekyll
+description: personal website of Yangheng Jizhe
+github: http://www.github.com/arnp
+twitter: http://www.twitter.com/
+facebook: http://www.facebook.com
+linkedin: http://www.linkedin.com
+email: rnpatel[at]me.com
+email: yanghengjizhe@gmail.com \n yxj432@case.edu
+location: 42°2'16"N   70°12'47"W
+disqus: diqus-username
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
