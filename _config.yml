@@ -33,3 +33,4 @@ defaults:
       
    url: janicejzyh.github.io
    baseurl: /mydoctheme
+   remote_theme: jekyll
